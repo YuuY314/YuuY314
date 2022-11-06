@@ -4,6 +4,11 @@
 
 ### Curso informática no IFRJ Campus Arraial do Cabo
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuuY314&show_icons=true&theme=codeSTACKr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuuY314&layout=compact&langs_count=9&theme=codeSTACKr"">
+</div>
+
 ### Linguagens:
 <div style="display: inline_block">
   <img align="center" alt"Yu-HTML" height="40" width:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -21,3 +26,13 @@
 - Livros
 - Youtube
 
+## Redes Sociais
+
+<div>
+  <a href="https://www.youtube.com/channel/UCqFAVpmZtUD4JHtpkl6zQ2w">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white">
+  </a>
+</div>
