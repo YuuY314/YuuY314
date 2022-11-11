@@ -25,6 +25,8 @@
 - Jogos
 - Animes
 - Livros
+- Escrita
+- RPG de Mesa
 - Youtube
 
 ## Redes Sociais
