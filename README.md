@@ -4,6 +4,8 @@
 
 ### Curso informática no IFRJ Campus Arraial do Cabo
 
+### Atualmente estudando React e Unity
+
 <div align="center">
   <a href="https://github.com/YuuY314">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuuY314&show_icons=true&theme=codeSTACKr&count_private=true"/>
