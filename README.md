@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/YuuY314">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuuY314&show_icons=true&theme=codeSTACKr&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuuY314&theme=codeSTACKr"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=YuuY314&show_icons=true&theme=codeSTACKr&count_private=true"/>
+  <img height="180em" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuuY314&layout=compact&theme=codeSTACKr"/>
 </div>
 
 ### Linguagens:
@@ -22,14 +22,6 @@
   <img align="center" alt"Yu-PHP"  height="40" width:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img align="center" alt"Yu-SQL"  height="40" width:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
-
-### Hobbies:
-- Jogos
-- Animes
-- Livros
-- Escrita
-- RPG de Mesa
-- Youtube
 
 ## Redes Sociais
 
