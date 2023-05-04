@@ -4,7 +4,7 @@
 
 ### Curso informática no IFRJ Campus Arraial do Cabo
 
-### Atualmente procurando pela primeira experiência profissional
+### Atualmente desenvolvendo um jogo
 
 <div align="center">
   <a href="https://github.com/YuuY314">
