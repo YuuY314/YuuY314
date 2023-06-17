@@ -4,7 +4,7 @@
 
 ### Curso informática no IFRJ Campus Arraial do Cabo
 
-### Atualmente desenvolvendo um [jogo](https://github.com/YuuY314/TCC)
+### Atualmente desenvolvendo um [jogo](https://github.com/YuuY314/TCC) e escrevendo um [livro](https://www.wattpad.com/story/343836865-o-início-de-uma-lenda)
 
 <div align="center">
   <a href="https://github.com/YuuY314">
