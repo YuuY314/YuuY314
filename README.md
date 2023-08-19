@@ -35,6 +35,7 @@
 ## Redes Sociais
 
 <div>
+  <a href="https://www.linkedin.com/in/rafael-yu-58284624b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://discordapp.com/users/533521300740767754/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCqFAVpmZtUD4JHtpkl6zQ2w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://www.facebook.com/rafael.yu.9028/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
