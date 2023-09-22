@@ -7,7 +7,6 @@
 ### Atualmente desenvolvendo um [jogo](https://github.com/YuuY314/TCC) e escrevendo um [livro](https://www.wattpad.com/story/343836865-o-início-de-uma-lenda)
 
 <div align="center">
-  <a href="https://github.com/YuuY314">
   <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuuY314&layout=compact&theme=codeSTACKr"/>
 </div>
 
