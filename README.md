@@ -1,6 +1,6 @@
 ## Olá, me chamo Rafael Yu
 
-### Tenho 17 anos e almejo a área de Desenvolvimento de Jogos
+### Tenho 18 anos e almejo a área de Desenvolvimento de Jogos
 
 ### Curso informática no IFRJ Campus Arraial do Cabo
 
