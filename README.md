@@ -1,6 +1,6 @@
 ## Olá, me chamo Rafael Yu
 
-### Tenho 18 anos e almejo a área de Desenvolvimento de Jogos
+### Tenho 18 anos e gosto de fazer projetos
 
 ### Técnico em Informática - IFRJ Campus Arraial do Cabo
 
