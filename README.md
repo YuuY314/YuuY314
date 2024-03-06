@@ -2,6 +2,8 @@
 
 ### Tenho 18 anos e gosto de fazer projetos
 
+### Estudante de Engenharia de Computação - Universidade Veiga de Almeida
+
 ### Técnico em Informática - IFRJ Campus Arraial do Cabo
 
 <div align="center">
