@@ -1,15 +1,10 @@
 ## Olá, me chamo Rafael Yu
 
-### Tenho 19 anos e almejo ser um desenvolvedor
+### Tenho 20 anos e almejo ser um Desenvolvedor FullStack
 
 ### Técnico em Desenvolvimento de Sistemas - SENAI-SP São Caetano do Sul Campus Armando de Arruda Pereira
 
 ### Técnico em Informática - IFRJ Campus Arraial do Cabo
-
-<div align="center">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=YuuY314&show_icons=true&hide=stars,issues&theme=codeSTACKr">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuuY314&layout=compact&theme=codeSTACKr"/>
-</div>
 
 ### Linguagens:
 <div style="display: inline_block">
