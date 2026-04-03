@@ -1,6 +1,8 @@
 ## Olá, me chamo Rafael Yu
 
-### Tenho 20 anos e almejo ser um Desenvolvedor FullStack
+### Tenho 20 anos e almejo ser Desenvolvedor FullStack
+
+### Bacharelado Interdisciplinar em Ciência e Tecnologia - UFABC Campus Santo André
 
 ### Técnico em Desenvolvimento de Sistemas - SENAI-SP São Caetano do Sul Campus Armando de Arruda Pereira
 
